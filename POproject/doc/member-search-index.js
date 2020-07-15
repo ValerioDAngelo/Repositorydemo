@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"it.esame.POproject.controller","c":"RestController","l":"RestController()","url":"%3Cinit%3E()"}]
